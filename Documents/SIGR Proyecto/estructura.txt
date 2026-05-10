@@ -1,0 +1,10 @@
+sigr/
+├── src/
+│   ├── auth/         # Módulo de autenticación
+│   ├── menu/         # Módulo de menú digital
+│   ├── orders/       # Módulo de pedidos
+│   ├── reservations/ # Módulo de reservas
+│   └── reports/      # Módulo de caja y reportes
+├── tests/            # Pruebas
+├── docs/             # Documentación técnica
+└── config/           # Configuraciones45
